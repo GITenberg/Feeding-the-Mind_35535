@@ -1,0 +1,44 @@
+_repo: Feeding-the-Mind_35535
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35535-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: 'Breakfast, dinner, tea; in extreme cases, breakfast, luncheon, dinner,
+  tea, supper, and a glass of something hot at bedtime. What care we take about feeding
+  the lucky body! Which of us does as much for his mind? And what causes the difference?
+  Is the body so much the more important of the two?  By no means: but life depends
+  on the body being fed, whereas we can continue to exist as animals (scarcely as
+  men) though the mind be utterly starved and neglected. Therefore Nature provides
+  that, in case of serious neglect of the body, such terrible consequences of discomfort
+  and pain shall ensue, as will soon bring us back to a sense of our duty: and some
+  of the functions necessary to life she does for us altogether, leaving us no choice
+  in the matter. It would fare but ill with many of us if we were left to superintend
+  our own digestion and circulation. ''Bless me!'' one would cry, ''I forgot to wind
+  up my heart this morning! To think that it has been standing still for the last
+  three hours!'' ''I can''t walk with you this afternoon,'' a friend would say, ''as
+  I have no less than eleven dinners to digest. I had to let them stand over from
+  last week, being so busy, and my doctor says he will not answer for the consequences
+  if I wait any longer!'''
+gutenberg_issued: '2011-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35535'
+  lccn: w08000011
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books and reading -- Great Britain'
+- !lcc 'Z'
+title: Feeding the Mind
+url: http://www.gutenberg.org/ebooks/35535
