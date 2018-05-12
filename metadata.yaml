@@ -28,6 +28,8 @@ description: 'Breakfast, dinner, tea; in extreme cases, breakfast, luncheon, din
   I have no less than eleven dinners to digest. I had to let them stand over from
   last week, being so busy, and my doctor says he will not answer for the consequences
   if I wait any longer!'''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35535#Feeding-the-Mind
 gutenberg_issued: '2011-03-09'
 gutenberg_type: Text
 identifiers:
